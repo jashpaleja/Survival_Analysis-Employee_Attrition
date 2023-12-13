@@ -33,6 +33,3 @@ This repository contains a data science project on Survival Analysis applied to 
 
 - Open and run the Jupyter Notebook (`survival_analaysis_on_employee_attrition.ipynb`) to explore the project analysis.
 
-## Additional Information
-- Ensure that you have the necessary Python environment set up.
-- The project leverages libraries such as pandas, numpy, matplotlib, seaborn, lifelines, and scikit-learn.

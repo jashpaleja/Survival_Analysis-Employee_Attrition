@@ -30,7 +30,7 @@ categorical_values_to_category_dict = {
     2: 'Medium',
     3: 'High',
     4: 'Very High'},
-    
+     
     'WorkLifeBalance':{1: 'Bad',
     2:'Good',
     3:'Better',
